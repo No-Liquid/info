@@ -18,5 +18,5 @@ export const monthlyData: MonthlyData[] = [
   { month: 'Oct 25', pnl: 1082.75, date: '2025-10' },
   { month: 'Nov 25', pnl: -2816.23, date: '2025-11' },
   { month: 'Dec 25', pnl: -1078.17, date: '2025-12' },
-  { month: 'Jan 26', pnl: -1031.32, data: '2026-01'}
+  { month: 'Jan 26', pnl: -1031.32, date: '2026-01' }
 ]
